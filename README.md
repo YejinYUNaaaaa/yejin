@@ -4,7 +4,7 @@
 > ## master branch로 작업하지말고 local에서 개인 branch를 파서 git에 push해줍니다(바로 master로 push하지말고 개인 branch로 해서 PR보내기)
 > ## 다른사람이 작업한 코드 및 기능 PR에 대해 comment를 달면서 소통을 합니다.
 > ## git PR을 보내놓으면 카톡을 남겨놓읍시다.
-
+> ## 가상환경은 git에 올리지 말고 각자의 가상환경을 구성해서 사용
 
 > ## 지켜야 할 규칙 :
 > + Css를 사용함에 있어서 class name 및 id name같은경우 접두사로 본인의 nick을 적는다 e.g) my_header X    chi_header   O
