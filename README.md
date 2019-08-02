@@ -6,7 +6,7 @@
 > ## git PR을 보내놓으면 카톡을 남겨놓읍시다.
 
 
-> ##지켜야 할 규칙 :
+> ## 지켜야 할 규칙 :
 > + Css를 사용함에 있어서 class name 및 id name같은경우 접두사로 본인의 nick을 적는다 e.g) my_header X    chi_header   O
 > + Css 및 코드를 작성함에 있어 가급적이면 주석을 달아 다른사람이 보아도 알수 있게 한다
 > + Naming의 경우에는 의미 있는 naming을 한다   e.g) asbads   XXXX     App name : review_board , function name : create 
