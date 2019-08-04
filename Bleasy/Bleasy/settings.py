@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'BleasyApp.apps.BleasyappConfig',
+    'Community.apps.CommunityConfig',
+    'Profile.apps.ProfileConfig',
 ]
 
 MIDDLEWARE = [
@@ -54,7 +57,7 @@ ROOT_URLCONF = 'Bleasy.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['BleasyApp/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
